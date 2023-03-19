@@ -6,6 +6,7 @@
   <li><strong>Phone: </strong>+380508218868, +4915164065182</li>
   <li><strong>E-mail: </strong> <a href="oxymoron.dr@gmail.com">oxymoron.dr@gmail.com</a></li>
   <li><strong>Github: </strong> <a href="https://github.com/oxumoron/">Artem Suprun</a></li>
+  <li><strong>Linkedin: </strong> <a href="https://www.linkedin.com/in/artem-suprun/">Artem Suprun</a></li>
   <li><strong>Telegram: </strong> <a href="https://t.me/Oxymoron_666">Artem Suprun</a></li>
 </ul>
 
